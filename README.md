@@ -12,5 +12,14 @@ ideas:
     Click -->
         Find top 10 (Popu/Time) News Articles
         Embeded/Links to --> preview: 
+        
+
     
-  
+ 
+ 
+ 
+ 
+ 
+ 
+@Dannybrush --> 57373597+Dannybrush@users.noreply.github.com
+@joe-sykes
