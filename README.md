@@ -10,6 +10,7 @@ ideas:
   Obtain 10 Largest Gainers 
   Obtain 10 Largest Droppers
     Click -->
-        Find new 
+        Find top 10 (Popu/Time) News Articles
+        Embeded/Links to --> preview: 
     
   
